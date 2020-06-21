@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 const athleteSchema = new Schema({
   name: { type: String, required: true },
   sport:{type:Array ,required:true},
-  DOB: { type: String},
+  DOB: { type:Date},
   nationality: { type: String, required: true },
   gender:{ type: String, required: true },
   description : {type:String},
