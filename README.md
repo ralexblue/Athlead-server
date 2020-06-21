@@ -2,7 +2,7 @@
 
 used this boilerplate to start my node/express server:https://github.com/ralexblue/express-boilerplate
 start-Time:6/21/2020 3:00 EST
-End Time :
+End Time :6/21/2020  7:00 est
 
 
 ## Set up
