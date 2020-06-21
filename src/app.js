@@ -7,7 +7,7 @@ const helmet = require('helmet');
 const { NODE_ENV,uri } = require('./config')
 const app = express();
 
-const athleteRouter = require('./routes/athlete');
+const athleteRouter = require('./Routes/athlete');
 
 const morganOption = NODE_ENV === 'production'
   ? 'tiny'
